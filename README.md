@@ -16,8 +16,8 @@
 - [通用源码 V5.6.43](https://dev.mysql.com/get/Downloads/MySQL-5.6/mysql-5.6.43.tar.gz)
 
 #### Redis 下载
-- [官方 V5.0.4](http://download.redis.io/releases/redis-5.0.4.tar.gz)
-- [官方 V4.0.14](http://download.redis.io/releases/redis-4.0.14.tar.gz)
+- [V5.0.4](http://download.redis.io/releases/redis-5.0.4.tar.gz)
+- [V4.0.14](http://download.redis.io/releases/redis-4.0.14.tar.gz)
 
 #### Nginx 下载
 - [V1.15.12](http://nginx.org/download/nginx-1.15.12.tar.gz)
@@ -29,10 +29,10 @@
 - [Elasticsearch V7.0.0](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.0.0-linux-x86_64.tar.gz)
 - [Logstash V7.0.0](https://artifacts.elastic.co/downloads/logstash/logstash-7.0.0.tar.gz)
 - [Kibana V7.0.0](https://artifacts.elastic.co/downloads/kibana/kibana-7.0.0-linux-x86_64.tar.gz)
-- [非官方 Elasticsearch V6.6.0](http://file.mrlapulga.com/ELK/Elasticsearch/elasticsearch-6.6.0.tar.gz)
-- [非官方 Logstash V6.6.0](http://file.mrlapulga.com/ELK/Logstash/logstash-6.6.0.tar.gz)
-- [非官方 Kibana V6.6.0](http://file.mrlapulga.com/ELK/Kibana/kibana-6.6.0-linux-x86_64.tar.gz)
-- [Install Doc](https://www.mrlapulga.com/?p=621)
+- [非官方地址 Elasticsearch V6.6.0](http://file.mrlapulga.com/ELK/Elasticsearch/elasticsearch-6.6.0.tar.gz)
+- [非官方地址 Logstash V6.6.0](http://file.mrlapulga.com/ELK/Logstash/logstash-6.6.0.tar.gz)
+- [非官方地址 Kibana V6.6.0](http://file.mrlapulga.com/ELK/Kibana/kibana-6.6.0-linux-x86_64.tar.gz)
+- [Install Doc ](https://www.mrlapulga.com/?p=621)
 
 
 
