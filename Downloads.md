@@ -23,6 +23,16 @@
 - [V1.12.2](http://nginx.org/download/nginx-1.12.2.tar.gz)
 - [V1.10.3](http://nginx.org/download/nginx-1.10.3.tar.gz)
 
+#### Httpd 下载
+- [V2.4.39](https://www.apache.org/dist/httpd/httpd-2.4.39.tar.gz)
+- [V2.4.38](https://www.apache.org/dist/httpd/httpd-2.4.38.tar.gz)
+
+#### Hoodop 下载
+- [Binary V3.2.0](https://www.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz)
+- [Source V3.2.0](https://www.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0-src.tar.gz)
+- [Binary V3.1.2](https://www.apache.org/dist/hadoop/common/hadoop-3.1.2/hadoop-3.1.2.tar.gz)
+- [Source V3.1.2](https://www.apache.org/dist/hadoop/common/hadoop-3.1.2/hadoop-3.1.2-src.tar.gz)
+
 #### ELK 下载
 - [Elasticsearch V7.0.0](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.0.0-linux-x86_64.tar.gz)
 - [Logstash V7.0.0](https://artifacts.elastic.co/downloads/logstash/logstash-7.0.0.tar.gz)
@@ -48,4 +58,8 @@
 - [V3.6.1](http://mirrors.tuna.tsinghua.edu.cn/apache/maven/maven-3/3.6.1/binaries/apache-maven-3.6.1-bin.tar.gz)
 - [V3.5.4](https://archive.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz)
 - [V3.3.9](https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz)
+
+#### Jenkins 下载
+- [latest](http://mirrors.jenkins.io/war/latest/jenkins.war)
+- [war-stable latest](http://mirrors.jenkins.io/war-stable/latest/jenkins.war)
 
