@@ -2,8 +2,6 @@
 ```
 记录运维工作中需要下载及其访问的资源。
 ```
-#### Treasure Site
-- [Other Treasure](https://github.com/mrlapulga/devops-resources/blob/master/CommonTreasure.md)
 
 #### My eBook
 - [My KanCloud eBook](https://www.kancloud.cn/mrlapulga/devops-notes)
