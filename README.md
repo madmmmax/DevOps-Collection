@@ -13,6 +13,9 @@
 - [Google 镜像 URL1](https://coderschool.cn/1853.html)
 - [Google 镜像 URL2](https://guge8.978789.xyz/)
 
+#### Github 相关
+- [Github Markdown 语法](https://guides.github.com/features/mastering-markdown/)
+- [Github 表清单](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 #### Python Resources
 - [Python](https://www.python.org/)
