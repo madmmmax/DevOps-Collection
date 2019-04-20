@@ -3,6 +3,9 @@
 记录运维工作中需要下载及其访问的资源。
 ```
 
+#### My eBook
+- [My KanCloud eBook](https://www.kancloud.cn/mrlapulga/devops-notes)
+
 #### Google 镜像
 - [Google 镜像 URL1](https://coderschool.cn/1853.html)
 - [Google 镜像 URL2](https://guge8.978789.xyz/)
