@@ -1,6 +1,6 @@
 # 运维工作资源
 ```
-记录运维工作中需要下载及其访问的资源。
+记录运维工作中需要经常访问的资源。
 ```
 
 #### My eBook
@@ -12,6 +12,17 @@
 #### Google 镜像
 - [Google 镜像 URL1](https://coderschool.cn/1853.html)
 - [Google 镜像 URL2](https://guge8.978789.xyz/)
+
+
+#### Python Resources
+- [Python](https://www.python.org/)
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+- [My Python Examples](https://github.com/geekcomputers/Python)
+- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- [Python脚本](https://github.com/injetlee/Python)
+- [Python入门教程](https://github.com/TwoWater/Python)
+- [FQ](https://github.com/TwoWater/Python/blob/master/Res/FQ.md)
+- [Python入门网络爬虫之精华版](https://github.com/lining0806/PythonSpiderNotes)
 
 #### Golang Resources
 - [Golang](https://golang.org/)
