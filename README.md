@@ -6,6 +6,9 @@
 #### My eBook
 - [My KanCloud eBook](https://www.kancloud.cn/mrlapulga/devops-notes)
 
+#### My Blog Site
+- [mrlapulga](https://www.mrlapulga.com/)
+
 #### Google 镜像
 - [Google 镜像 URL1](https://coderschool.cn/1853.html)
 - [Google 镜像 URL2](https://guge8.978789.xyz/)
