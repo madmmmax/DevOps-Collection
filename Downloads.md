@@ -63,3 +63,22 @@
 - [latest](http://mirrors.jenkins.io/war/latest/jenkins.war)
 - [war-stable latest](http://mirrors.jenkins.io/war-stable/latest/jenkins.war)
 
+#### Node 下载
+- [V11.14.0](https://nodejs.org/dist/v11.14.0/node-v11.14.0-linux-x64.tar.gz)
+- [V11.13.0](https://nodejs.org/dist/v11.13.0/node-v11.13.0-linux-x64.tar.gz)
+- [V11.12.0](https://nodejs.org/dist/v11.12.0/node-v11.12.0-linux-x64.tar.gz)
+- [V11.11.0](https://nodejs.org/dist/v11.11.0/node-v11.11.0-linux-x64.tar.gz)
+- [V11.10.0](https://nodejs.org/dist/v11.10.0/node-v11.10.0-linux-x64.tar.gz)
+- [V10.15.3](https://nodejs.org/dist/v10.15.3/node-v10.15.3-linux-x64.tar.gz)
+- [V10.15.2](https://nodejs.org/dist/v10.15.3/node-v10.15.2-linux-x64.tar.gz)
+- [V10.15.1](https://nodejs.org/dist/v10.15.3/node-v10.15.1-linux-x64.tar.gz)
+
+#### Zookeeper 下载
+- [V3.4.14](http://mirror.bit.edu.cn/apache/zookeeper/zookeeper-3.4.14/zookeeper-3.4.14.tar.gz)
+- [V3.4.13](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.13/zookeeper-3.4.13.tar.gz)
+- [V3.4.12](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.12/zookeeper-3.4.12.tar.gz)
+- [V3.4.11](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.11/zookeeper-3.4.11.tar.gz)
+- [V3.4.10](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.10/zookeeper-3.4.10.tar.gz)
+- [V3.4.9](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.9/zookeeper-3.4.9.tar.gz)
+- [V3.4.8](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.9/zookeeper-3.4.8.tar.gz)
+- [V3.4.7](https://archive.apache.org/dist/zookeeper/zookeeper-3.4.9/zookeeper-3.4.7.tar.gz)
