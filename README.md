@@ -15,6 +15,7 @@
 
 #### Github 相关
 - [Github Markdown 语法](https://guides.github.com/features/mastering-markdown/)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Github 表清单](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 #### Python Resources
