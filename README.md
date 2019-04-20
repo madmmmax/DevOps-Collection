@@ -17,7 +17,7 @@
 
 #### Percona XtraDB Cluster 下载
 - [V5.7.25_ssl102](https://www.percona.com/downloads/Percona-XtraDB-Cluster-LATEST/Percona-XtraDB-Cluster-5.7.25-31.35/binary/tarball/Percona-XtraDB-Cluster-5.7.25-rel28-31.35.1.Linux.x86_64.ssl102.tar.gz)
-- [V5.7.25_ssl101](https://www.percona.com/downloads/Percona-XtraDB-Cluster-LATEST/Percona-XtraDB-Cluster-5.7.25-31.35/binary/tarball/Percona-XtraDB-Cluster-5.7.25-rel28-31.35.1.Linux.x86_64.ssl101.tar.gz
+- [V5.7.25_ssl101](https://www.percona.com/downloads/Percona-XtraDB-Cluster-LATEST/Percona-XtraDB-Cluster-5.7.25-31.35/binary/tarball/Percona-XtraDB-Cluster-5.7.25-rel28-31.35.1.Linux.x86_64.ssl101.tar.gz)
 - [V5.7.25_ssl100](https://www.percona.com/downloads/Percona-XtraDB-Cluster-LATEST/Percona-XtraDB-Cluster-5.7.25-31.35/binary/tarball/Percona-XtraDB-Cluster-5.7.25-rel28-31.35.1.Linux.x86_64.ssl100.tar.gz)
 
 #### Redis 下载
