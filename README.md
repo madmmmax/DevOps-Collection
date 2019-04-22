@@ -2,6 +2,10 @@
 ```
 记录DevOps工作中的一些资源。
 ```
+```
+[下载资源传送门](https://github.com/mrlapulga/devops-resources/blob/master/Downloads.md)
+[其他资源传送门](https://github.com/mrlapulga/devops-resources/blob/master/CommonTreasure.md)
+```
 
 #### My eBook
 - [My KanCloud eBook](https://www.kancloud.cn/mrlapulga/devops-notes)
