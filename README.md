@@ -30,6 +30,7 @@
 
 #### Python Resources
 - [Python](https://www.python.org/)
+- [QiyuangongLeetCode](https://github.com/qiyuangong/leetcode)
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 - [My Python Examples](https://github.com/geekcomputers/Python)
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
