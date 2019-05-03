@@ -55,6 +55,12 @@
 - [上海交通大学](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [中山大学](https://github.com/sysuexam/SYSU-Exam)
 
+#### Learning MindMap
+- [Docker MindMap](https://github.com/Weiwf/docker-mindmap)
+- [JVM MindMap](https://github.com/Weiwf/JVM-mindmap)
+- [Redis MindMap](https://github.com/Weiwf/redis-mindmap)
+
+
 #### Other
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 - [GitHub Awesome Projects Lists](https://www.prettyawesomelists.com/lists)
