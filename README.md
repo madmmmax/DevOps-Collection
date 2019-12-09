@@ -70,3 +70,4 @@
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
 - [开源跳板机](https://github.com/jumpserver/jumpserver)
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+- [Shadowsocks Windows](https://github.com/iuskye/shadowsocks-windows)
