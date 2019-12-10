@@ -65,7 +65,7 @@
 #### Other
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 - [GitHub Awesome Projects Lists](https://www.prettyawesomelists.com/lists)
-- [How to use Git](https://github.com/xirong/my-git)
+- [How to use Github](https://github.com/xirong/my-git)
 - [Nginx反向代理服务器](https://github.com/bg6cq/nginx-install)
 - [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
