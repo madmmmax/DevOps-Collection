@@ -19,6 +19,7 @@
 - [Google 镜像 URL2](https://guge8.978789.xyz/)
 
 #### Github 相关
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [Github Markdown 语法](https://guides.github.com/features/mastering-markdown/)
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Github 表清单](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
