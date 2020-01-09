@@ -62,6 +62,12 @@
 - [JVM MindMap](https://github.com/Weiwf/JVM-mindmap)
 - [Redis MindMap](https://github.com/Weiwf/redis-mindmap)
 
+#### 免费资源
+- [免费图库](https://www.yuque.com/ruanyf/weekly/free-photos)
+- [免费作图工具](https://www.yuque.com/ruanyf/weekly/free-diagram)
+- [免费音乐](https://www.yuque.com/ruanyf/weekly/free-music)
+- [免费视频编辑器](https://www.yuque.com/ruanyf/weekly/free-video-editor)
+- [免费在线代码编辑器](https://www.yuque.com/ruanyf/weekly/free-online-code-editor)
 
 #### Other
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
