@@ -51,7 +51,7 @@
 - [Python入门网络爬虫之精华版](https://github.com/lining0806/PythonSpiderNotes)
 - [Python开源库及示例代码](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
 
-## Java
+## Java Resources
 
 - [Halo - 基于java的博客系统](https://github.com/halo-dev/halo)
   - 技术点：spring boot（后端）， Freemarker（模版）等等
