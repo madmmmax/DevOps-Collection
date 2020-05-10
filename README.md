@@ -1,7 +1,4 @@
-# 运维工作资源
-```
-记录DevOps工作中的一些资源。
-```
+>记录DevOps工作中的一些资源。
 
 **[下载资源传送门](https://github.com/mrlapulga/devops-resources/blob/master/Downloads.md)**
 
