@@ -32,6 +32,7 @@
 
 ## Python Resources
 
+- [A curated list of awesome Python frameworks, libraries, software and resources.](https://github.com/vinta/awesome-python)
 - [Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等](https://github.com/jobbole/awesome-python-cn)
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2)
 - [Python爬虫教程系列](https://github.com/wistbean/learn_python3_spider)
