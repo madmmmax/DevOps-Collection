@@ -51,6 +51,7 @@
 
 ## Java Resources
 
+- [CodeSheep](https://github.com/hansonwang99/JavaCollection)
 - [Halo - 基于java的博客系统](https://github.com/halo-dev/halo)
   - 技术点：spring boot（后端）， Freemarker（模版）等等
 - [Hutool - Java工具包](https://github.com/looly/hutool)
