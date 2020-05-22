@@ -48,6 +48,7 @@
 - [FQ](https://github.com/TwoWater/Python/blob/master/Res/FQ.md)
 - [Python入门网络爬虫之精华版](https://github.com/lining0806/PythonSpiderNotes)
 - [Python开源库及示例代码](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
+- [几个酷炫的Python项目](https://mp.weixin.qq.com/s/Fu4OMojTJK0MrZohsLOx4w)
 
 ## Java Resources
 
