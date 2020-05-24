@@ -1,12 +1,11 @@
->记录DevOps工作中的一些资源。
-
-**[下载资源传送门](https://github.com/mrlapulga/devops-resources/blob/master/Downloads.md)**
-
-**[其他资源传送门](https://github.com/mrlapulga/devops-resources/blob/master/CommonTreasure.md)**
-
 ## 介绍
 
 这是一个收集各种开源技术的项目合集！
+
+## 个人整理
+
+[下载资源](https://github.com/mrlapulga/devops-resources/blob/master/Downloads.md)
+[其他资源](https://github.com/mrlapulga/devops-resources/blob/master/CommonTreasure.md)
 
 ## My Blog Site
 
@@ -72,10 +71,18 @@
 - [中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
 
+## 前端
+
+- [前端小课](https://github.com/lefex/FE)
+
 ## 大数据
 
 - [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
   - 技术点：Hadoop、Hive、Spark、Storm、Flink、HBASE、Kafka、Zookeeper、Flume、Sqoop、Azkaban、Scala
+
+## 容器技术
+
+- [Awesome-kubernetes-cn](https://github.com/wh211212/awesome-kubernetes-cn)
 
 ## 大学课程 GitHub Repo
 
