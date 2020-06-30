@@ -111,6 +111,7 @@
 
 ## Other
 
+- [Hello Github](https://github.com/521xueweihan/HelloGitHub)
 - [收集了Github上的优秀工具,框架,知识合集](https://github.com/taojintianxia/github-bookmark)
 - [中文独立博客列表](https://github.com/MisterBooo/chinese-independent-blogs)
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
